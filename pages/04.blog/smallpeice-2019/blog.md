@@ -18,8 +18,6 @@ content:
 
 **Author: [Dan Trickey](https://trickey.io)**
 
-![Arena for Smallpeice 2019](arena.jpg)
-
 Another year, another two robotics events.
 
 The first was [Student Robotics 2019](https://studentrobotics.org), a new organisation to me, albeit very closely linked to the activities that I'd been involved in before. SR is of a much larger scale than the other events that I've helped organise before, with approximately 30 teams this year, squeezing into the same venue that we'd usually fit 10 teams in. It's safe to say that we took up just about every public space in the [SUSU](https://www.susu.org) main building during this event. SR2019 was held in April earlier this year and I was so tired afterwards that I really didn't have the energy to write a post about it back then. I will likely be making a reflective post about it as we move into the next competition cycle.
@@ -33,6 +31,8 @@ This year, even more so than last year, I found myself doing a lot of the organi
 After last year, we had received some of the worst feedback from the students, indicating that we had not done things that well. Some of the areas that particularly needed focus were that during the time in the labs, students felt that they were not receiving enough support from volunteers, and that the electronics labs were nothing more than a glorified soldering exercise. 
 
 We set out to fix the electronics labs first, rewriting them from absolute scratch, and doing it well in advance. One of the memories I have from last year is writing the electronics labs during the morning before the students were due to do them, as they were not ready. This year we were fortunate enough to have two Electronic Engineering undergraduates step up to take this on. The new labs had much more of a focus on the underlying principles, with practical exercises to demonstrate this to the students. My particular favourite activity was using an ultrasound sensor, an oscilloscope, and a signal generator to see in real time how the pulse is reflected back and how this changes with distance. The students were then able to calculate an approximate figure for the speed of sound from the waveform. Much better than soldering. We struggled to get the students to move on from the labs to building their robot!
+
+![Arena for Smallpeice 2019](arena.jpg)
 
 As for the lack of volunteers in labs, we initially believed that this was just a case of ensuring that any spare volunteers tried to stay in the lab. By the time the summer school rolled around, it had become clear that we were not going to use our usual arena design and thus we would have more volunteers in the labs than expected. We also realised that with 16 teams this year, it would be impossible for any one individual to become familiar with all of the teams' designs. We decided to try assigning mentors to teams, which turned out to be a huge success.
 
