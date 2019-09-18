@@ -1,6 +1,6 @@
 ---
 title: 'SourceBots 2018'
-published: false
+published: true
 date: '25-04-2018 15:40'
 publish_date: '18-09-2019 15:40'
 metadata:
