@@ -11,8 +11,6 @@ hero_image: 8949396595486541253.JPG
 
 **Author: [Dan Trickey](https://trickey.io)**
 
-![](8949396595486541253.JPG)
-
 About two years ago, I attended a summer school at the University of Southampton. It was organised by a charity called [The Smallpeice Trust][smallpeice], who run STEM courses for 13 - 18 year old children in the UK. At the time I enjoyed it, but little did I realise at the time that I would end up running the same course just two years later.
 
 The general way that I describe the course to people is to take a typical [Student Robotics][srobo] or [SourceBots][sb2018] competition and squeeze it into a week. Yes, that is as crazy as it sounds. No, the robots aren't great (usually). We do however have something that we didn't have at SourceBots: lots of money. [ARM][arm] is very kind and sponsors us. We do have additional costs compared to SourceBots, as we provide the students with all of the materials to build their robots, rather than just the basic electronics kits.
@@ -28,6 +26,8 @@ The game design chosen was based off a game that has been played several times b
 ## School's (not) out for the summer
 
 I wouldn't really expect that if you brought together fifty 17 year olds and put them in a room together, that they would be able to build somewhat competent robots in a week. Even though not one of them knew another, they managed this. We, of course, help them along a bit. We run workshops throughout the week so that they can learn the skills necessary to build their robots. We also run 3 lectures during the week, which give more of an insight to life at university.
+
+![Building the Arena](8949396595486541253.JPG)
 
 ## Relativistic Raspberries
 
