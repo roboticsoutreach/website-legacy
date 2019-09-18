@@ -2,8 +2,7 @@
 title: 'SourceBots 2018'
 ---
 
-**Author: Dan Trickey**
-![](sblogo.svg)
+**Author: [Dan Trickey](https://trickey.io)**
 
 Many months of hard work came to fruition last weekend, as we hosted the [SourceBots][sb] 2018 robotics competition at The University of Southampton.
 
@@ -37,6 +36,7 @@ The kit is still in development after the competition and we have many more exci
 
 The competition finals were broadcast live by [SUSUtv][susu-tv], the student television society here at Southampton. 
 
+!!! This article was originally posted [here](https://trickey.io/posts/sb2018/), and has been reposted with the permission of the author.
 
 [april-tags]: https://april.eecs.umich.edu/software/apriltag.html
 [sb]: https://sourcebots.org
