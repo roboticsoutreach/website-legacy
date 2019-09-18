@@ -1,5 +1,6 @@
 ---
 title: 'Smallpeice 2018'
+media_order: arena.svg
 published: true
 date: '12-08-2018 15:58'
 publish_date: '12-08-2018 15:58'
@@ -15,7 +16,7 @@ The general way that I describe the course to people is to take a typical [Stude
 
 ## The Game
 
-{{< figure src="/img/posts/smallpeice2018/arena.svg" width="50%" caption="Layout Diagram of the Arena">}}
+![](arena.svg)
 
 After the thresholding issues that we encountered at the SourceBots competition in April and realising that we had yet to reliably fix this, we decided to design the game this year to not use fiducial markers. This unfortunately meant a lack of cubes, something we all found a little weird. I did submit a modified version of the game from SourceBots, but this was deemed to be too complex for teams to play with ultrasound sensors.
 
