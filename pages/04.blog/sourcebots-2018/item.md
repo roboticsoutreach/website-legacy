@@ -1,5 +1,10 @@
 ---
 title: 'SourceBots 2018'
+published: true
+date: '24-04-2018 15:54'
+publish_date: '24-04-2018 15:54'
+metadata:
+    author: 'Dan Trickey'
 ---
 
 **Author: [Dan Trickey](https://trickey.io)**
