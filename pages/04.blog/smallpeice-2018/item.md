@@ -6,6 +6,7 @@ date: '12-08-2018 15:58'
 publish_date: '12-08-2018 15:58'
 metadata:
     author: 'Dan Trickey'
+hero_image: arena.svg
 ---
 
 **Author: [Dan Trickey](https://trickey.io)**
