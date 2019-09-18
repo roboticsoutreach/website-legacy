@@ -1,15 +1,17 @@
 ---
 title: 'Smallpeice 2018'
-media_order: arena.svg
+media_order: 'arena.svg,8949396595486541253.JPG'
 published: true
 date: '12-08-2018 15:58'
 publish_date: '12-08-2018 15:58'
 metadata:
     author: 'Dan Trickey'
-hero_image: arena.svg
+hero_image: 8949396595486541253.JPG
 ---
 
 **Author: [Dan Trickey](https://trickey.io)**
+
+![](8949396595486541253.JPG)
 
 About two years ago, I attended a summer school at the University of Southampton. It was organised by a charity called [The Smallpeice Trust][smallpeice], who run STEM courses for 13 - 18 year old children in the UK. At the time I enjoyed it, but little did I realise at the time that I would end up running the same course just two years later.
 
