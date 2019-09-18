@@ -7,7 +7,7 @@ body_classes: 'title-center title-h1h2'
 # Southampton Robotics Outreach
 
 
-Southampton Robotics Outreach is a society at the University of Southampton who are nthusiastic about getting young people involved in Robotics, Computing, Electronics and STEM. 
+Southampton Robotics Outreach is a society at the University of Southampton who are enthusiastic about getting young people involved in Robotics, Computing, Electronics and STEM. 
 
 We run weekly talks and workshops for our members to prepare them to run events with a range of young people. A number of our members engage in developing new robotics hardware and software that enables us to run events.
 
