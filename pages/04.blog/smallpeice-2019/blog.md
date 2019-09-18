@@ -1,5 +1,6 @@
 ---
 title: 'Smallpeice 2019'
+media_order: 'arena.jpg,fig-arena.svg'
 date: '18-08-2018 00:00'
 publish_date: '18-08-2018 00:00'
 metadata:
@@ -17,7 +18,7 @@ content:
 
 **Author: [Dan Trickey](https://trickey.io)**
 
-{{< figure src="/img/posts/smallpeice2019/arena.jpg" width="50%" caption="Arena for Smallpeice 2019">}}
+![Arena for Smallpeice 2019](arena.jpg)
 
 Another year, another two robotics events.
 
@@ -37,7 +38,7 @@ As for the lack of volunteers in labs, we initially believed that this was just 
 
 ## The Game
 
-{{< figure src="/img/posts/smallpeice2019/fig-arena.svg" width="50%" >}}
+![The Game](fig-arena.svg)
 
 In the build-up to this year, we planned for the new kit we were introducing to have fiducial marker pose estimation support, and designed the game with this as an important sensor mechanism. Unfortunately, due to issues beyond our control, this did not happen (coming soon to a blog near here.) and we had to quickly modify the game to make it possible to play with a limited set of sensors. Despite the factors weighing against them, we saw of the best robots we've ever had this year.
 
