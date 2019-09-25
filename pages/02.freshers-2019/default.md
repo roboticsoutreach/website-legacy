@@ -14,8 +14,8 @@ If you can't wait to get started, join our [Facebook Group](https://roboticsoutr
 
 The Freshers' week schedule is below:
 
-| Date       | Event                             | Location | Type          |
-|------------|-----------------------------------|----------|---------------|
-| 28/09/2019 | Introduction to SRO + Kit Hacking | 53/4025  | Workshop      |
-| 30/09/2019 | Getting Started With Robotics     | 53/4025  | Workshop      |
-| 07/10/2019 | Robotics Game Design              | 53/4025  | Talk/Workshop |
+| Date       	| Event                             	| Location 	| Type          	|
+|------------	|-----------------------------------	|----------	|---------------	|
+| 28/09/2019 	| Introduction to SRO + Kit Hacking 	| 53/4025  	| Workshop      	|
+| 30/09/2019 	| Getting Started With Robotics     	| 53/4025  	| Workshop      	|
+| 07/10/2019 	| Robotics Game Design              	| 53/4025  	| Talk/Workshop 	|
