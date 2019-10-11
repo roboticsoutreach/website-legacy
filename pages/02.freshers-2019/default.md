@@ -19,9 +19,9 @@ The Freshers' week schedule is below:
 | 28/09/2019 	| Introduction to SRO + Kit Hacking 	| 53/4025  	| Workshop      	|
 | 30/09/2019 	| Getting Started With Robotics     	| 53/4025  	| Workshop      	|
 | 07/10/2019 	| Robotics Game Design              	| 53/4025  	| Talk/Workshop 	|
-| 14/10/2019 | Python Tutorial 1| 53/4025| Workshop|
+| 14/10/2019 | Python: A Tornado Tour - Part 1| 53/4025| Workshop|
 | 21/10/2019| Applied Robotics In The Ocean| 53/4025| Talk|
-| 28/10/2019| Python Tutorial | 53/4025| Workshop |
+| 28/10/2019| Python: A Tornado Tour - Part 2 | 53/4025| Workshop |
 | 4/11/2019 | Event Management with Future Worlds | 53/4025 | Workshop |
 | 11/11/2019 | Competition Games Discussion | 53/4025 | Workshop / Meeting |
 | 18/11/2019 | Introduction to Hardware Design | 53/4025 | Workshop |
