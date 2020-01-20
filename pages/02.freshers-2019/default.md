@@ -1,5 +1,6 @@
 ---
 title: 'Freshers 2019'
+published: false
 ---
 
 # Freshers 2019
