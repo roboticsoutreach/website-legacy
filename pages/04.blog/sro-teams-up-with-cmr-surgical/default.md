@@ -1,6 +1,5 @@
 ---
-title: 'SRO teams up with CMR Surgical'
-published: false
+title: 'SRO teams up with CMR Surgical!'
 ---
 
 We are pleassed to announce.... 
