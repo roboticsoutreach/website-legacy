@@ -1,5 +1,5 @@
 ---
-title: Schools
+title: 'Schools / Youth Leaders'
 media_order: 31674114_1515103231934478_3089116671726583808_o.jpg
 ---
 
