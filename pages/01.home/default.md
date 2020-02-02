@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Southampton Robotics Outreach'
 media_order: 'DSC02237.JPG,cmr.png,soton.png'
 body_classes: 'title-center title-h1h2'
 ---
