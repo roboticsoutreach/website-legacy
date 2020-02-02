@@ -1,6 +1,7 @@
 ---
 title: 'SRO teams up with CMR Surgical!'
-published: false
+published: true
+date: '02-02-2020 19:37'
 ---
 
 We have some exciting news, we've got a new sponsor, [CMR Surgical](https://cmrsurgical.com/)! It's really exciting to be able to work with them and we look forward to sharing more information about their internship and grad opportunities soon!
