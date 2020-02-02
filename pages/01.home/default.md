@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: DSC02237.JPG
+media_order: 'DSC02237.JPG,cmr.png,soton.png'
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -16,3 +16,13 @@ Our flagship event is the Computing, Electronics and Robotics summer school that
 ![](DSC02237.JPG)
 
 We also work closely with Student Robotics, a charity that runs an annual robotics competition for 16 - 18 year olds.
+
+## Sponsors
+
+We'd like to thank the following organisations for supporting us, and our work.
+
+![](cmr.png)
+
+![](soton.png)
+
+![](susu.png)
