@@ -21,8 +21,4 @@ We also work closely with Student Robotics, a charity that runs an annual roboti
 
 We'd like to thank the following organisations for supporting us, and our work.
 
-![](cmr.png)
-
-![](soton.png)
-
-![](susu.png)
+![](cmr.png?cropResize=300,300) ![](soton.png?cropResize=300,300) ![](susu.png?cropResize=300,300)
