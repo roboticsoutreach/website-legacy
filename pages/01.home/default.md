@@ -1,6 +1,6 @@
 ---
 title: 'Southampton Robotics Outreach'
-media_order: 'DSC02237.JPG,cmr.png,soton.png'
+media_order: 'DSC02237.JPG,soton.png'
 body_classes: 'title-center title-h1h2'
 ---
 
@@ -21,4 +21,4 @@ We also work closely with Student Robotics, a charity that runs an annual roboti
 
 We'd like to thank the following organisations for supporting us, and our work.
 
-![](cmr.png?cropResize=300,300) ![](soton.png?cropResize=300,300) ![](susu.png?cropResize=300,300)
+![](soton.png?cropResize=300,300) ![](susu.png?cropResize=300,300)
